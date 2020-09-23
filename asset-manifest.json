@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cats-arena/static/css/main.88b8d4ed.chunk.css",
+    "main.js": "/cats-arena/static/js/main.4e8170d7.chunk.js",
+    "main.js.map": "/cats-arena/static/js/main.4e8170d7.chunk.js.map",
+    "runtime-main.js": "/cats-arena/static/js/runtime-main.48b547d7.js",
+    "runtime-main.js.map": "/cats-arena/static/js/runtime-main.48b547d7.js.map",
+    "static/js/2.26c82c0e.chunk.js": "/cats-arena/static/js/2.26c82c0e.chunk.js",
+    "static/js/2.26c82c0e.chunk.js.map": "/cats-arena/static/js/2.26c82c0e.chunk.js.map",
+    "index.html": "/cats-arena/index.html",
+    "precache-manifest.ac4c3441c0c9e3178fc0309d615ae983.js": "/cats-arena/precache-manifest.ac4c3441c0c9e3178fc0309d615ae983.js",
+    "service-worker.js": "/cats-arena/service-worker.js",
+    "static/css/main.88b8d4ed.chunk.css.map": "/cats-arena/static/css/main.88b8d4ed.chunk.css.map",
+    "static/js/2.26c82c0e.chunk.js.LICENSE.txt": "/cats-arena/static/js/2.26c82c0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48b547d7.js",
+    "static/js/2.26c82c0e.chunk.js",
+    "static/css/main.88b8d4ed.chunk.css",
+    "static/js/main.4e8170d7.chunk.js"
+  ]
+}
