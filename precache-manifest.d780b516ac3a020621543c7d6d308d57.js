@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4c96794cb217e987d29f1d81e554ba8",
+    "revision": "fb3bbf670f8f52d3d52fe4a4fa9d3cf1",
     "url": "/cats-arena/index.html"
   },
   {
-    "revision": "db2e59c8b7c5b34554d2",
-    "url": "/cats-arena/static/css/main.88b8d4ed.chunk.css"
+    "revision": "afc54d89aba445cd49f7",
+    "url": "/cats-arena/static/css/main.d6b456ad.chunk.css"
   },
   {
     "revision": "ab3ed9d491e25b27a1df",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cats-arena/static/js/2.26c82c0e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "db2e59c8b7c5b34554d2",
+    "revision": "afc54d89aba445cd49f7",
     "url": "/cats-arena/static/js/main.4e8170d7.chunk.js"
   },
   {
