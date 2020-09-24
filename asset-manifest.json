@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cats-arena/static/css/main.44d7d1df.chunk.css",
-    "main.js": "/cats-arena/static/js/main.65c1b6f2.chunk.js",
-    "main.js.map": "/cats-arena/static/js/main.65c1b6f2.chunk.js.map",
+    "main.js": "/cats-arena/static/js/main.a2f2155f.chunk.js",
+    "main.js.map": "/cats-arena/static/js/main.a2f2155f.chunk.js.map",
     "runtime-main.js": "/cats-arena/static/js/runtime-main.48b547d7.js",
     "runtime-main.js.map": "/cats-arena/static/js/runtime-main.48b547d7.js.map",
     "static/js/2.26c82c0e.chunk.js": "/cats-arena/static/js/2.26c82c0e.chunk.js",
     "static/js/2.26c82c0e.chunk.js.map": "/cats-arena/static/js/2.26c82c0e.chunk.js.map",
     "index.html": "/cats-arena/index.html",
-    "precache-manifest.2fc07189376c425eb339d7c81b97b137.js": "/cats-arena/precache-manifest.2fc07189376c425eb339d7c81b97b137.js",
+    "precache-manifest.e5a9fcb0bb08f29a15741bb12173c024.js": "/cats-arena/precache-manifest.e5a9fcb0bb08f29a15741bb12173c024.js",
     "service-worker.js": "/cats-arena/service-worker.js",
     "static/css/main.44d7d1df.chunk.css.map": "/cats-arena/static/css/main.44d7d1df.chunk.css.map",
     "static/js/2.26c82c0e.chunk.js.LICENSE.txt": "/cats-arena/static/js/2.26c82c0e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.48b547d7.js",
     "static/js/2.26c82c0e.chunk.js",
     "static/css/main.44d7d1df.chunk.css",
-    "static/js/main.65c1b6f2.chunk.js"
+    "static/js/main.a2f2155f.chunk.js"
   ]
 }
