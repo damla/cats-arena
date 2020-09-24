@@ -21,14 +21,24 @@ class App extends Component {
     .then((users) => this.setState({ cats: users })); // monster dizinine ekleniyor
   }
 
+  handleChange = (e) => {
+    this.setState( { searchField: e.target.value }) // searchten gelen degeri al
+  }
+
+
   render() {
+    // const cats = this.state.cats;
+    // const searchField = this.state.searchField;
+    const { cats, searchField } = this.state;
+    const filteredCats = cats.filter( cat => cat.name.toLowerCase().includes(searchField.toLowerCase()));
+
     return (
       <div>
         <div className="Container">
           <h1>Cats Arena</h1>
-          <SearchBox placeholder="Search cats..."/>
+          <SearchBox placeholder="Search cats..." handleChange = { this.handleChange } />
         </div>
-        <CardList cats= { this.state.cats } />
+        <CardList cats= { filteredCats } />
       </div>
     );
   }
