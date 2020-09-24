@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/cats-arena/static/css/main.d6b456ad.chunk.css",
-    "main.js": "/cats-arena/static/js/main.4e8170d7.chunk.js",
-    "main.js.map": "/cats-arena/static/js/main.4e8170d7.chunk.js.map",
+    "main.css": "/cats-arena/static/css/main.4adade6d.chunk.css",
+    "main.js": "/cats-arena/static/js/main.65c1b6f2.chunk.js",
+    "main.js.map": "/cats-arena/static/js/main.65c1b6f2.chunk.js.map",
     "runtime-main.js": "/cats-arena/static/js/runtime-main.48b547d7.js",
     "runtime-main.js.map": "/cats-arena/static/js/runtime-main.48b547d7.js.map",
     "static/js/2.26c82c0e.chunk.js": "/cats-arena/static/js/2.26c82c0e.chunk.js",
     "static/js/2.26c82c0e.chunk.js.map": "/cats-arena/static/js/2.26c82c0e.chunk.js.map",
     "index.html": "/cats-arena/index.html",
-    "precache-manifest.d780b516ac3a020621543c7d6d308d57.js": "/cats-arena/precache-manifest.d780b516ac3a020621543c7d6d308d57.js",
+    "precache-manifest.a91a9092400e3095af8897e2ca32368f.js": "/cats-arena/precache-manifest.a91a9092400e3095af8897e2ca32368f.js",
     "service-worker.js": "/cats-arena/service-worker.js",
-    "static/css/main.d6b456ad.chunk.css.map": "/cats-arena/static/css/main.d6b456ad.chunk.css.map",
+    "static/css/main.4adade6d.chunk.css.map": "/cats-arena/static/css/main.4adade6d.chunk.css.map",
     "static/js/2.26c82c0e.chunk.js.LICENSE.txt": "/cats-arena/static/js/2.26c82c0e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.48b547d7.js",
     "static/js/2.26c82c0e.chunk.js",
-    "static/css/main.d6b456ad.chunk.css",
-    "static/js/main.4e8170d7.chunk.js"
+    "static/css/main.4adade6d.chunk.css",
+    "static/js/main.65c1b6f2.chunk.js"
   ]
 }
